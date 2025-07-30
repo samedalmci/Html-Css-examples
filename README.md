@@ -1,4 +1,6 @@
-Portfolio Website
+💻 Essential CSS – 4 Temel Proje ile CSS Öğrenimi
+
+1. Portfolio Website
 
 Responsive layout
 
@@ -11,7 +13,7 @@ Genel tasarım pratiği
 <img width="622" height="943" alt="Ekran görüntüsü 2025-07-30 201116" src="https://github.com/user-attachments/assets/d2a0072c-0cb5-45a6-af22-e0fb1fb7b29f" />
 
 
-NFT Website
+2. NFT Website
 
 Semantic HTML
 
@@ -24,7 +26,7 @@ Inline-block kullanımı
 <img width="622" height="943" alt="Ekran görüntüsü 2025-07-30 201033" src="https://github.com/user-attachments/assets/42d711bb-8f9a-43f3-9948-3fa01356e62d" />
 
 
-Instagram Clone
+3. Instagram Clone
 
 Semantic HTML yapısı
 
@@ -37,7 +39,7 @@ JavaScript ile 3 gönderinin render edilmesi
 
 
 
-Flexbox Layout
+4. Flexbox Layout
 
 Flex kullanımı ve hizalama (align-self)
 
