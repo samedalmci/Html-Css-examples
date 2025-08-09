@@ -44,7 +44,7 @@
       - Link stillendirme
     </td>
     <td>
-      <img width="671" height="668" alt="Ekran görüntüsü 2025-08-09 161926" src="https://github.com/user-attachments/assets/315e34d3-fe0d-4819-be1d-852617fce47e" />
+      <img width="300" alt="Ekran görüntüsü 2025-08-09 161926" src="https://github.com/user-attachments/assets/315e34d3-fe0d-4819-be1d-852617fce47e" />
     </td>
   </tr>
 </table>
