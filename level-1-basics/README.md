@@ -8,7 +8,7 @@
       - Button hover efektleri
     </td>
     <td>
-     <img width="1880" height="937" alt="Ekran görüntüsü 2025-08-09 161943" src="https://github.com/user-attachments/assets/1a48fdd8-fb59-49c1-8e8c-858a3e379cd9" />
+     <img width="300"  alt="Ekran görüntüsü 2025-08-09 161943" src="https://github.com/user-attachments/assets/1a48fdd8-fb59-49c1-8e8c-858a3e379cd9" />
     </td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
       - Basit navigasyon menüsü
     </td>
     <td>
-      <img width="300" height="953" alt="Ekran görüntüsü 2025-08-09 161903" src="https://github.com/user-attachments/assets/583f3a8c-f5d8-46b4-a177-7ffc7b0d281c" />
+      <img width="300"  alt="Ekran görüntüsü 2025-08-09 161903" src="https://github.com/user-attachments/assets/583f3a8c-f5d8-46b4-a177-7ffc7b0d281c" />
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
       - Hover efektleri
     </td>
     <td>
-      <img width="1007" height="643" alt="Ekran görüntüsü 2025-08-09 161828" src="https://github.com/user-attachments/assets/43cdd418-eb75-4db3-9ec9-0ab692b49d80" />
+      <img width="300"  alt="Ekran görüntüsü 2025-08-09 161828" src="https://github.com/user-attachments/assets/43cdd418-eb75-4db3-9ec9-0ab692b49d80" />
     </td>
   </tr>
   <tr>
