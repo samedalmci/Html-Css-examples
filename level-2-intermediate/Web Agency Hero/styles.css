@@ -1,0 +1,51 @@
+@font-face {
+    src: url("fonts/open-sans.regular.ttf");
+    font-family: OpenSans;
+
+}
+
+
+body{
+    background-image: url("images/faded-office.png");
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+h1{
+    width: 600px;
+    font-size: 100px;
+    font-weight: bolder;
+    margin-bottom: -20px;
+
+    
+}
+
+p{
+    font-size: 45px;
+    margin-right: 150px;
+   
+}
+
+
+button{
+    background-color: #0ea5e9;
+    color: white;
+    padding: 30px 70px;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;  
+}
+
+.homecard{    
+    margin-top: 120px;
+    margin-left: 120px;
+    width: 800px;      
+    font-family: OpenSans;  
+    color: #020202;     
+}
+
+.underline{
+    border-bottom: 10px solid #0ea5e9;
+}

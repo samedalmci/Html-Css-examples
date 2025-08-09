@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.TopSection{
+    background-image: url("images/Ankara.jpeg");   
+    width: 720px;
+    height: 343px;
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;     
+    color: #E5E4EAff;
+    
+}
+
+.TopSection > h2{
+    background-color: #546E8Cff;    
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;    
+    display: flex;
+    align-items: center;     
+    justify-content: center; 
+   
+}
+
+.TopSection > p{
+    background-color: #7A93ACff;
+    border-radius: 10px;
+    width: 400px;
+    height: 50px;
+    margin-bottom: 10px;    
+    display: flex;
+    align-items: center;     
+    justify-content: center; 
+}
+
+.CenterSection{ 
+    width: 720px;
+   
+    background-color: #ACB6C8ff;
+    text-align: center;
+    margin: 0 auto;
+    color: #28364Aff;
+    padding-bottom: 30px;
+
+}
+.CenterSection > h2{
+    margin: 0  auto; 
+    padding-top: 40px;
+}
+
+.CenterItem{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.avatarsec{  
+    margin-top: 20px;  
+    margin-left: 10px;    
+    text-align: center;
+    width: 250px;
+}
+
+
+.BottomSection{  
+    width: 720px;   
+    background-color: #E5E4EAff;
+    margin: 0 auto;
+    padding: 50px 0; 
+    box-sizing: border-box;
+
+
+}
+
+.card{
+    background-color: #A88875ff ;    
+    width: 400px;    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    border-bottom: 10px solid black;    
+    color: #28364Aff;
+    margin: 0px auto;
+    
+}
+
+.CardRight{
+    margin-top: 17px;
+    color: #1D3557;    
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.CardRight > h4{
+   margin-top: -10px;
+}
+
+#cardimg{
+    width: 180px;
+    height: 240px;
+    margin-top: 30px;
+    margin-left: 13px;
+    border-radius: 20px;
+}
+
+#avatar{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+}
