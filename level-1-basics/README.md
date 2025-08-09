@@ -8,7 +8,7 @@
       - Button hover efektleri
     </td>
     <td>
-     <img width="1914" height="954" alt="Web Agency Hero" src="https://github.com/user-attachments/assets/1000cfc1-1e24-4b20-bab2-872fa93561d8" />
+     <img width="1880" height="937" alt="Ekran görüntüsü 2025-08-09 161943" src="https://github.com/user-attachments/assets/1a48fdd8-fb59-49c1-8e8c-858a3e379cd9" />
     </td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
       - Basit navigasyon menüsü
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/b9802185-a852-4c93-87e9-eebb9a017a6e" width="300" alt="Hometown Homepage">
+      <img width="300" height="953" alt="Ekran görüntüsü 2025-08-09 161903" src="https://github.com/user-attachments/assets/583f3a8c-f5d8-46b4-a177-7ffc7b0d281c" />
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
       - Hover efektleri
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/08e13dfe-d783-446d-9c09-8f3c1df24ce6" width="300" alt="Amazon Product Page">
+      <img width="1007" height="643" alt="Ekran görüntüsü 2025-08-09 161828" src="https://github.com/user-attachments/assets/43cdd418-eb75-4db3-9ec9-0ab692b49d80" />
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@
       - Link stillendirme
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/a81aacd7-460c-4195-818f-f3faf84ab8e8" width="300" alt="The Daily Dribble">
+      <img width="671" height="668" alt="Ekran görüntüsü 2025-08-09 161926" src="https://github.com/user-attachments/assets/315e34d3-fe0d-4819-be1d-852617fce47e" />
     </td>
   </tr>
 </table>
