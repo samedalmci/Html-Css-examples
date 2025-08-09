@@ -8,7 +8,7 @@
       - Button hover efektleri
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/1000cfc1-1e24-4b20-bab2-872fa93561d8" width="300" alt="Web Agency Hero">
+     <img width="1914" height="954" alt="Web Agency Hero" src="https://github.com/user-attachments/assets/1000cfc1-1e24-4b20-bab2-872fa93561d8" />
     </td>
   </tr>
   <tr>
