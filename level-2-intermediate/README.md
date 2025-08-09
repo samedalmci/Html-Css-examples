@@ -9,11 +9,11 @@
   </tr>
   <tr>
     <td>
-      <strong>2. NFT Website</strong><br>
-      - Semantic HTML<br>
-      - Hover & Active durumları (pseudo selectors)<br>
-      - CSS specificity ve compound selectors<br>
-      - Inline-block kullanımı
+      <strong>1. Portfolio Website</strong><br>
+      - Responsive layout<br>
+      - Grid ve flex kombinasyonları<br>
+      - Custom scrollbar<br>
+      - Genel tasarım pratiği
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/42d711bb-8f9a-43f3-9948-3fa01356e62d" width="300">
