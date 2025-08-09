@@ -1,18 +1,50 @@
-# HTML-ve-CSS-Projeleri
-
-Bu depoda, Scrimba’nın HTML ve CSS kursu kapsamında tamamladığım projeler yer alıyor. Bu projeler sayesinde giriş seviye web geliştirmeye dair temel bilgilerden başlayarak ileri seviye tekniklere kadar önemli beceriler edindim.
-
-HTML’in temel yapısını ve semantik etiketlerin kullanımını öğrendim. Basit ve anlamlı bir web sayfası oluşturmanın temelleri, CSS kullanarak sayfaları nasıl stilize edeceğimi, düzen ve yerleşim konularını kavradım. Flexbox ile esnek ve duyarlı tasarımlar yapmayı deneyimledim.
-
-Ayrıca renk paletleri oluşturmak, yazı tiplerini yönetmek ve görsel optimizasyonu gibi modern web tekniklerini de öğrendim. Performans ve kullanıcı deneyimini artıracak küçük ama etkili detaylara dikkat ettim.
-
-Gelişmiş layout düzenlemeleri, hover efektleri ve etkileşimli tasarımlar yaparak web sayfalarının dinamik ve profesyonel görünmesini sağladım. 
-
-Tüm süreç boyunca Git ve GitHub ile versiyon kontrolü yaparak proje yönetimi becerilerimi geliştirdim.
-
-Bu projeler, benim için web geliştirme yolunda önemli bir başlangıç oldu. Temelleri sağlam atarak, daha karmaşık ve yaratıcı projeler üretmeye hazırım.
-
-<img width="1914" height="954" alt="Web Agency Hero" src="https://github.com/user-attachments/assets/1000cfc1-1e24-4b20-bab2-872fa93561d8" />
-<img width="596" height="891" alt="Hometown Homepage" src="https://github.com/user-attachments/assets/b9802185-a852-4c93-87e9-eebb9a017a6e" />
-<img width="1028" height="663" alt="Amazon Product Page" src="https://github.com/user-attachments/assets/08e13dfe-d783-446d-9c09-8f3c1df24ce6" />
-<img width="687" height="678" alt="The Daily Dribble" src="https://github.com/user-attachments/assets/a81aacd7-460c-4195-818f-f3faf84ab8e8" />
+<table>
+  <tr>
+    <td>
+      <strong>1. Web Agency Hero</strong><br>
+      - Responsive layout<br>
+      - Flexbox kullanımı<br>
+      - Hero section tasarımı<br>
+      - Button hover efektleri
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/1000cfc1-1e24-4b20-bab2-872fa93561d8" width="300" alt="Web Agency Hero">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>2. Hometown Homepage</strong><br>
+      - Semantic HTML<br>
+      - Grid layout kullanımı<br>
+      - Responsive görsel yerleşimi<br>
+      - Basit navigasyon menüsü
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b9802185-a852-4c93-87e9-eebb9a017a6e" width="300" alt="Hometown Homepage">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>3. Amazon Product Page</strong><br>
+      - Flex ve Grid kombinasyonu<br>
+      - Ürün kartı tasarımı<br>
+      - Fiyat ve stok etiketleri<br>
+      - Hover efektleri
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/08e13dfe-d783-446d-9c09-8f3c1df24ce6" width="300" alt="Amazon Product Page">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>4. The Daily Dribble</strong><br>
+      - Flexbox ile haber kartları<br>
+      - Typography düzenlemeleri<br>
+      - Hover ile görsel efektleri<br>
+      - Link stillendirme
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a81aacd7-460c-4195-818f-f3faf84ab8e8" width="300" alt="The Daily Dribble">
+    </td>
+  </tr>
+</table>
