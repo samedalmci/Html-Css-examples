@@ -1,7 +1,11 @@
 <table>
   <tr>
     <td>
-      <strong>1. Portfolio Website</strong>Portfolio Website: Responsive layout, grid ve flexbox kullanımı.
+      <strong>1. Portfolio Website</strong><br>
+      - Responsive layout<br>
+      - Grid ve flex kombinasyonları<br>
+      - Custom scrollbar<br>
+      - Genel tasarım pratiği
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/d2a0072c-0cb5-45a6-af22-e0fb1fb7b29f" width="300">
@@ -9,11 +13,11 @@
   </tr>
   <tr>
     <td>
-      <strong>1. Portfolio Website</strong><br>
-      - Responsive layout<br>
-      - Grid ve flex kombinasyonları<br>
-      - Custom scrollbar<br>
-      - Genel tasarım pratiği
+      <strong>2. NFT Website</strong><br>
+      - Semantic HTML<br>
+      - Hover & Active durumları (pseudo selectors)<br>
+      - CSS specificity ve compound selectors<br>
+      - Inline-block kullanımı
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/42d711bb-8f9a-43f3-9948-3fa01356e62d" width="300">
