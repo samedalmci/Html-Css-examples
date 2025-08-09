@@ -1,1 +1,3 @@
-Bu depo, HTML ve CSS öğrenme sürecimde gerçekleştirdiğim mini projeleri içermektedir. Giriş seviyesi (basics) olarak 4 , orta seviye (intermediate) olarak 4 proje tamamladım.   Her projenin kendi klasöründe, o projede öğrendiğim ve uyguladığım tekniklere dair detaylı notları bulabilirsiniz.
+Bu depo, HTML ve CSS öğrenme sürecimde gerçekleştirdiğim mini projeleri içermektedir. Giriş seviyesi (basics) olarak 4 , orta seviye (intermediate) olarak 4 proje tamamladım.   
+
+Her projenin kendi klasöründe, o projede öğrendiğim ve uyguladığım tekniklere dair detaylı notları bulabilirsiniz.
